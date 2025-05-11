@@ -1,4 +1,4 @@
-## Oiii, eu sou a Geovana Cristina 👋
+## Oiii, eu sou Geovana Cristina 👋
 
 Sou estudante de ADS, estou utiizando o GitHub para armazenar meus trabalhos e me auxiliar no aprendizado de novos conteúdos. 
 
