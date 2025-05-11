@@ -1,16 +1,15 @@
-## Hi there 👋
+## Oiii, eu sou a Geovana Cristina 👋
 
-<!--
-**geovanaamoraes/geovanaamoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de ADS, estou utiizando o GitHub para armazenar meus trabalhos e me auxiliar no aprendizado de novos conteúdos. 
 
-Here are some ideas to get you started:
+* 🖥️ Atualmente aprendendo a desenvolver em Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🧠 Em busca de novos conhecimentos.
+
+
+
+  
+**Você também pode me encontrar em:**
+
+<a href="https://www.linkedin.com/in/geovana-cristina-382a761a1/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
